@@ -22,15 +22,11 @@ This is a simple console-based Tic Tac Toe game implemented in C++.
 - A C++ compiler (e.g., `g++`).
 
 ### Steps
-1. Navigate to the directory containing the source code:
-   ```bash
-   cd "/home/rasil/Desktop/tic tac to/"
-   ```
-2. Compile the code using the following command:
+1. Compile the code using the following command:
    ```bash
    g++ -o tictacto tictacto.cpp
    ```
-3. Run the compiled program:
+2. Run the compiled program:
    ```bash
    ./tictacto
    ```
@@ -62,7 +58,7 @@ It's Player 1's turn. Enter your slot: 5
 ```
 
 ## Author
-This game was developed by [Your Name].
+This game was developed by Muhammed Rasil.
 
 ## License
 This project is licensed under the MIT License.
